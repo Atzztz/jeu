@@ -15,4 +15,4 @@ while tantative > 0:
     tantative -= 1
     print(f"Il vous reste {tantative} tentatives.")
 if tantative == 0:
-    print(f"Vous avez épuisé vos tentatives. Le nombre était {r}.")
+    print(f"Vous avez épuisé vos tentatives. Le nombre était 🤣 {r}.")
